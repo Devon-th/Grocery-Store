@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+.products {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.individual-product {
+    font-family: Arial, Helvetica, sans-serif;
+}
